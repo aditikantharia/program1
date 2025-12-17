@@ -31,7 +31,10 @@ ESLiny
 Github copilot
 live preview
 live share
-
+material icon themes
+postman
+prettier
+tailwind css
 ____________________________________________________
 
 WEBSITE CREATE
