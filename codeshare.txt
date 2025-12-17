@@ -1,0 +1,40 @@
+set:
+
+git config --global user.name "aditikantharia"
+git config --global user.email aditikantharia@gmail.com
+git config --list
+​
+
+unset:
+git config --global --unset user.name
+git config --global --unset user.email
+
+​
+present working directory : pwd
+user check : git config --
+
+​command for push:::
+cd program1
+git add .
+git commit =m "enter any message"
+git push origin main
+ 
+if there are error then'
+Credential Manager
+remove in github press!
+
+extention
+color highlight
+css peek
+ES7+ React
+ESLiny
+Github copilot
+live preview
+live share
+
+____________________________________________________
+
+WEBSITE CREATE
+Tailblocks
+
+
