@@ -81,3 +81,8 @@ keyframe(animation), media quary (max-width, min-width), transform, transition, 
 - CSS Pagination
 - CSS Flexbox
 - CSS Container
+----------------------------------------------------------------------
+open in goggle
+https://www.w3schools.com/css/css_exercises.asp
+
+https://s0a2h8il.github.io/newhtmltag/
