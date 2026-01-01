@@ -155,7 +155,16 @@ create a single html file that show below css class withn heading
  
  
 18. use three libraries like google font, font-awesome, bootstrap etc. (don't use svg)
+
+
 1/1/2026:
+
 flexbox froggy
 grid garden
 (chrome ma jay ne open kavani..!)
+
+figma 
+figma ma goggle thi account open karvanu old hoy toh e open  karvanu..
+pachi frame ma button banavana 10 e bhi...
+badha na font and square and badha na angles different levana ok palak!!
+
